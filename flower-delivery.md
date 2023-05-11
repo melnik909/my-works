@@ -21,5 +21,5 @@
 ### Как это исправить
 Нужно добавить функциональность закрытия модального окна. Пример рекомендуемой реализации показан в стандарте WAI-ARIA Authoring Practices 1.2 [1]
 
-### Ресурсы
+## Ресурсы
 1.	Компонент Dialog в [стандарте ARIA Authoring Practices Guide](https://www.w3.org/TR/wai-aria-practices-1.2/examples/dialog-modal/dialog.html).

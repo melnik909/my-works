@@ -20,4 +20,4 @@ But I also like the css part, I guess it attracts wider audience. You are the on
 
  "If you like HTML and CSS, it's worth to read the articles from Stas Melnikov. What he explains is super interesting to learn." 
 
-— *David H., Software Engineer (Germany)*
+— *David Hermoso, Software Engineer (Germany)*

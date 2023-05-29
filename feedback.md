@@ -17,3 +17,7 @@ I'm not sure how we got connected, but I've enjoyed your posts. I would love to 
 But I also like the css part, I guess it attracts wider audience. You are the only content creator i know who actually talks about such an important topic" 
 
 — *Aviv Nakar, Web Developer (Israel)*
+
+ "If you like HTML and CSS, it's worth to read the articles from Stas Melnikov. What he explains is super interesting to learn." 
+
+— *David H., Software Engineer (Germany)*

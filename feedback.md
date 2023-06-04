@@ -21,3 +21,7 @@ But I also like the css part, I guess it attracts wider audience. You are the on
  "If you like HTML and CSS, it's worth to read the articles from Stas Melnikov. What he explains is super interesting to learn." 
 
 — *David Hermoso, Software Engineer (Germany)*
+
+"Ваши советы дают конкретный вариант улучшения. Достаточно сравнить что у меня творится на сайте и что Вы предлагаете. Например, благодаря Вашим идеям продукты и фотографии на сайте можно перелистывать стрелками клавиатуры (и я перестал использовать div как интерактивный элемент, добавил aria-label для кнопочек без текста и т.д.). Я удивлен, что не вижу больше лайков у Вашего контента, возможно Ваш охват аудитории пока не достаточно велик. Для меня это лучший контент на тему UI/UX и CSS. Желаю Вам успеха и постараюсь поддержать, как смогу."
+
+— *Mikhail Ilin, Web Developer (France)*

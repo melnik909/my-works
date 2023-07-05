@@ -1,5 +1,11 @@
 # My subscribers say
 
+"I have been following Stas for several years, and always pay attention to his posts, even though I consider myself quite knowledgeable about web content production and accessibility. Somehow, Stas consistently manages to dig out the tricky, under-documented cases and present robust solutions for them. He is a master of concision, communicating the key points in brief, simple language. 
+
+From my own teaching experiences, I am painfully aware how difficult this is, especially in a second language. If you have hours to spare, you can gorge yourself on the many other fully-stuffed websites, but if you need leaner insights and rapid enlightenment, turn to Stas.”
+
+—  *Brennan Young, Accessibility Specialist and Software Developer (Denmark)*
+
 "I strongly believe that you can teach yourself to think 'accessible' if you see enough a11y and UI cases. In this sense Stas' tips proven to be extremely useful."
 
 —  *Tatiana Ten, Senior Frontend Developer (Australia)*

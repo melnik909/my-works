@@ -1,4 +1,4 @@
-# Отзывы о моей работе
+# Отзывы о моей работе (Subscribers say)
 
 "I have been following Stas for several years, and always pay attention to his posts, even though I consider myself quite knowledgeable about web content production and accessibility. Somehow, Stas consistently manages to dig out the tricky, under-documented cases and present robust solutions for them. He is a master of concision, communicating the key points in brief, simple language. 
 
